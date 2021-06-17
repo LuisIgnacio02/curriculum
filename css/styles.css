@@ -443,23 +443,31 @@ ul li a.link_barra:hover {
 }
 
 #barra_py {
-    width: 20%;
+    width: 10%;
 }
 
 #barra_js {
     width: 10%;
 }
 
-#barra_inkscape {
-    width: 80%;
-}
-
 #barra_illustrator {
-    width: 70%;
+    width: 60%;
 }
 
-#barra_obs {
-    width: 40%;
+#barra_audacity {
+    width: 50%;
+}
+
+#barra_mat {
+    width: 10%;
+}
+
+#barra_solid {
+    width: 10%;
+}
+
+#barra_resolve {
+    width: 10%;
 }
 
 #barra_español {
@@ -471,7 +479,7 @@ ul li a.link_barra:hover {
 }
 
 #barra_frances {
-    width: 50%;
+    width: 60%;
 }
 
 #barra_chino {
@@ -715,19 +723,31 @@ ul li a.link_barra:hover {
         transition-timing-function: var(--curve);
     }
 
-    #barra_inkscape {
-        width: 0;
-        transition: 1s;
-        transition-timing-function: var(--curve);
-    }
-
     #barra_illustrator {
         width: 0;
         transition: 1s;
         transition-timing-function: var(--curve);
     }
 
-    #barra_obs {
+    #barra_audacity {
+        width: 0;
+        transition: 1s;
+        transition-timing-function: var(--curve);
+    }
+
+    #barra_mat {
+        width: 0;
+        transition: 1s;
+        transition-timing-function: var(--curve);
+    }
+
+    #barra_solid {
+        width: 0;
+        transition: 1s;
+        transition-timing-function: var(--curve);
+    }
+
+    #barra_resolve {
         width: 0;
         transition: 1s;
         transition-timing-function: var(--curve);
@@ -766,23 +786,31 @@ ul li a.link_barra:hover {
     }
 
     div.datos_habilidades:hover span#barra_py {
-        width: 25%;
+        width: 10%;
     }
 
     div.datos_habilidades:hover span#barra_js {
         width: 10%;
     }
 
-    div.datos_habilidades:hover span#barra_inkscape {
-        width: 90%;
-    }
-
     div.datos_habilidades:hover span#barra_illustrator {
-        width: 80%;
+        width: 60%;
     }
 
-    div.datos_habilidades:hover span#barra_obs {
+    div.datos_habilidades:hover span#barra_audacity {
         width: 50%;
+    }
+
+    div.datos_habilidades:hover span#barra_mat {
+        width: 10%;
+    }
+
+    div.datos_habilidades:hover span#barra_solid {
+        width: 10%;
+    }
+
+    div.datos_habilidades:hover span#barra_resolve {
+        width: 10%;
     }
 
     div.datos_habilidades:hover span#barra_español {
@@ -794,7 +822,7 @@ ul li a.link_barra:hover {
     }
 
     div.datos_habilidades:hover span#barra_frances {
-        width: 50%;
+        width: 60%;
     }
 
     div.datos_habilidades:hover span#barra_chino {

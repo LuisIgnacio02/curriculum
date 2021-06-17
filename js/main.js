@@ -1,5 +1,3 @@
-alert("Puede hacer click en los recuadros con mis logros para ver un documento relacionado.");
-
 const menuNav = document.getElementById("menu_barra"),
     abrirNav = document.getElementById("abrir_barra"),
     cerrarNav = document.getElementById("cerrar_barra")
