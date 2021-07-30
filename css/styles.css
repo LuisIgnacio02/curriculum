@@ -434,6 +434,10 @@ ul li a.link_barra:hover {
     background-color: var(--first_color);
 }
 
+.portafolio {
+    margin-top: 15px;
+}
+
 #barra_html {
     width: 80%;
 }
