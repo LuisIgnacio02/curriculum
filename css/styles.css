@@ -451,15 +451,15 @@ ul li a.link_barra:hover {
 }
 
 #barra_js {
-    width: 10%;
+    width: 20%;
 }
 
 #barra_illustrator {
-    width: 60%;
+    width: 75%;
 }
 
 #barra_audacity {
-    width: 50%;
+    width: 20%;
 }
 
 #barra_mat {
@@ -794,15 +794,15 @@ ul li a.link_barra:hover {
     }
 
     div.datos_habilidades:hover span#barra_js {
-        width: 10%;
+        width: 20%;
     }
 
     div.datos_habilidades:hover span#barra_illustrator {
-        width: 60%;
+        width: 75%;
     }
 
     div.datos_habilidades:hover span#barra_audacity {
-        width: 50%;
+        width: 20%;
     }
 
     div.datos_habilidades:hover span#barra_mat {
