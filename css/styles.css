@@ -595,6 +595,10 @@ ul li a.link_barra:hover {
     color: var(--first_color_lighter);
 }
 
+#inv {
+    padding-top: 3rem;
+}
+
 .pie {
     background-color: var(--first_color_darker);
     color: var(--first_color_lighter);
